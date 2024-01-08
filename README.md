@@ -6,8 +6,12 @@
 Connect to your Wi-Fi and open the IP address of the magloop
 in your browser.
 
-See video
 
+<a href="https://youtube.com/shorts/tR3TuS6j_TE" target="_blank">
+ See video
+ <br />
+ <img src="http://img.youtube.com/vi/tR3TuS6j_TE/default.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 # Development
 
