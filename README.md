@@ -45,20 +45,4 @@ pio run --target=upload -e ota
 - upload to the board (needs the borad connected using USB + appropriate user settings see installation) : `pio run --target upload`
 - See the `Serial` output : `pio device monitor --baud 115200`
 
-## Pinout
-| Name       | V18    |
-| ---------- | ------ |
-| TFT Driver | ST7789 |
-| TFT_MISO   | N/A    |
-| TFT_MOSI   | 19     |
-| TFT_SCLK   | 18     |
-| TFT_CS     | 5      |
-| TFT_DC     | 16     |
-| TFT_RST    | N/A    |
-| TFT_BL     | 4      |
-| I2C_SDA    | 21     |
-| I2C_SCL    | 22     |
-| ADC_IN     | 34     |
-| BUTTON1    | 35     |
-| BUTTON2    | 0      |
-| ADC Power  | 14     |
+
